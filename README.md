@@ -1,4 +1,4 @@
-[Sample ScreenShot](https://github.com/tanujdey7/My-Business-Card/blob/master/ss.png)
+![Sample ScreenShot](https://github.com/tanujdey7/My-Business-Card/blob/master/ss.png)
 
 # Mi Business Card
 
